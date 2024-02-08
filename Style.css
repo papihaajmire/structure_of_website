@@ -1,0 +1,186 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: darkcyan; */
+}
+nav{
+    border: 1px solid white;
+    height: 100px;
+    width: 100vw;
+    display: inline-block;
+}
+nav i{
+    height: 20px;
+    width: 20px;
+}
+.A{
+    height: 700px;
+    width: 100vw;
+    border: 1px solid black;
+}
+.B{
+    height: 50px;
+    width: 1300px;
+    margin-left: 100px;
+    border: 1px solid rgb(243, 8, 8);
+}
+#box{
+    height: 50px ;
+    width: 150px ;
+    border: 1px solid white;
+    display: inline-block;
+    margin: 5px;
+}
+.C{
+    height: 150px;
+    width:100vw;
+    border: 1px solid red;
+}
+ .C ul li{
+    display: inline-block;
+    margin: 15px ;
+}
+.C ul li input{
+    height: 50px;
+    width: 200px;
+}
+ .P{
+    margin-left: 600px;
+} 
+ .C{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+ }
+
+ #search{
+    height: 28px;
+ }
+
+ .P button{
+    height: 28px;
+ }
+
+ .a p{
+    margin-top: 120px;
+    text-align: center;
+    /* background-color: red; */
+ }
+.D{
+    border: 1px solid yellow;
+    height: 500px;
+    width:100vw;
+}
+.a{
+    display:inline-block;
+    height: 300px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 200px 75px 75px 75px;
+}
+.E{
+    height: 700px;
+    width: 100vw;
+    border: 1px solid blueviolet;
+}
+
+
+#b{
+    height: 50px;
+    width:500px;
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-top: 30px;
+    text-align: center;
+}
+ #b p{
+    margin-top: 15px;
+    text-align: center;
+ }
+.F{
+    display:inline-block;
+    height: 250px;
+    width: 200px;
+    border: 2px solid green;
+    margin: 85px;
+
+}
+.F p{
+    margin-top: 120px;
+    text-align: center;
+}
+.G{
+    height: 150px;
+    width:200px;
+    border: 1px solid pink;
+    display: inline-block;
+    margin: 15px 100px 100px 78px;
+}
+
+.G p{
+    margin-top: 75px;
+    text-align: center;
+}
+.H{
+    height: 500px;
+    width: 100vw;
+    border: 1px solid rgb(97, 7, 64);
+
+}
+/* #c{
+    height: 20px;
+    width: 100px;
+    border: 2px solid white;
+    
+} */
+#d{
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+}
+.I{
+    height: 200px;
+    width: 250px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.I p{
+    margin-top: 100px;
+    text-align: center;
+}
+.J{
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.J input{
+    height: 20px ;
+    width: 150px;
+    border-radius: 10px;
+}
+#e{
+    height: 100px;
+    width: 400px;
+    /* border: 2px solid yellow; */
+    margin-top: 20px;
+    margin-left: 600px;
+}
+#e i{
+    margin: 20px;
+    height: 30px;
+    width: 30px;
+}
+.K{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 20px 15px 15px 10px ;
+}
+#c{
+    margin-left: 10px;
+}
